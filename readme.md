@@ -1,0 +1,1 @@
+We use fixed size when we want an element to maintain it's size not taking into consideration the size of the browser. We use percentage sizes when we want our element to adapt and be reponsive to the browser's size and behave mannerly.
